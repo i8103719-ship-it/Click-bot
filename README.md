@@ -12,3 +12,4 @@
 - Python (Aiogram 3)
 - HTML / CSS / JavaScript
 - Telegram WebApp API
+![Скриншот](Screenshot_2026-11-09-15-20-25-188_org.telegram.messenger.jpg)
